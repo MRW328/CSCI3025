@@ -5,3 +5,6 @@ set up environtment and completed M1 Assignment
 
 2/1/2026
 added M2 Assignment - variables and expressions
+
+2/8/2026
+added M3 Assignment - control structures and loops
