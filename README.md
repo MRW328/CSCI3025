@@ -8,3 +8,6 @@ added M2 Assignment - variables and expressions
 
 2/8/2026
 added M3 Assignment - control structures and loops
+
+2/15/2026
+added M4 Assignment - functions and error handling
