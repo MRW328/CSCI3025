@@ -11,3 +11,6 @@ added M3 Assignment - control structures and loops
 
 2/15/2026
 added M4 Assignment - functions and error handling
+
+2/22/2026
+added M5 Assignment - Modular Programming Project
