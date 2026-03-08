@@ -14,3 +14,6 @@ added M4 Assignment - functions and error handling
 
 2/22/2026
 added M5 Assignment - Modular Programming Project
+
+3/8/2026
+added M6 Assignment - Classes in Python
