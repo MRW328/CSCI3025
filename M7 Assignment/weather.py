@@ -106,7 +106,7 @@ def main():
         humidity = current["relative_humidity_2m"]
         condition = description(current["weather_code"])
 
-        # Print the results in a clean, readable format
+        #print the results in a readable format
         print(f"Current Weather for {city}, {country}")
         print("-" * 40)
         print(f"Condition:    {condition}")
