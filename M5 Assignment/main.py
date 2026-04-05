@@ -15,4 +15,4 @@ removeFromCart("Beans")
 displayCart()
 calcs.reciept(cart)
 
-print(f"Budget remaining: ${calcs.checkBudget(calcs.applyTax(cart), 20.00):.2f}") #check cost against $20 budget
+print(f"Budget remaining: ${calcs.checkBudget(calcs.applyTax(cart), 20.00):.2f}") #check cost against $20 budgetT
